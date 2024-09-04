@@ -65,7 +65,7 @@ To allow evaluation of your proposal, please include the following items:
 ## Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
    - Mailing List: https://mailman3.ietf.org/mailman3/lists/diem.ietf.org/
    - Draft charter(s):
-      - PUT LINK HERE
+      - https://github.com/felixlinker/emblem-scope/blob/main/authenticated-digital-emblem-scoping.md
    - Relevant Internet-Drafts:
       - Use Cases:
          - https://datatracker.ietf.org/doc/draft-haberman-digital-emblem-ps/
