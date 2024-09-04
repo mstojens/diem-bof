@@ -40,7 +40,7 @@ require a new WG.
 ## Required Details
 - Status: WG Forming
 - Responsible AD: Éric Vyncke
-- BOF proponents: Brian Haberman (brian@innovationslab.net)
+- BOF proponents: Brian Haberman (brian@innovationslab.net) and Tommy Jensen (Jensen.Thomas@microsoft.com)
 - Number of people expected to attend: 150
 - Length of session (1 or 2 hours): 2 hours
 - Conflicts (whole Areas and/or WGs)
@@ -59,8 +59,10 @@ To allow evaluation of your proposal, please include the following items:
 - Open source projects (if any) implementing this work:
 
 ## Agenda
-   - Items, Internet-Drafts, speakers, timing
-   - Or a URL
+   - IETF 120 DIEM BoF Recap
+   - Proposed charter 1
+   - Proposed charter 2
+   - Open discussion
 
 ## Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
    - Mailing List: https://mailman3.ietf.org/mailman3/lists/diem.ietf.org/
