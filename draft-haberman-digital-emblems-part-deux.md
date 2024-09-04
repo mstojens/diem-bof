@@ -13,15 +13,29 @@ Relations. Other marks enjoy protections against mis-use under the
 Paris Convention, the Madrid Protocol, and the Trade-Related Aspects
 of Intellectual Property Rights.
 
-Such physical emblems do not translate to the digital realm and also
-suffer from a number of weaknesses in the physical world.
+For some uses cases, emblems are needed for digital assets without an 
+obvious physical form, as physical emblems do not translate to the digital realm. 
 For example, there is no current capability that allows an organization
 to indicate that its digital infrastructure should be afforded
 protections under an international law due to its use in a physical mission.
+
+For other use cases, physical emblems may also suffer from a number of weaknesses
+in their current usage, such as having hard-to-update metadata or a need to be
+updated with an access log. These require a digital counterpart to the physical
+emblem where both are attached to a physical object.
+
 The Digital Emblem BoF at IETF 120 (https://datatracker.ietf.org/group/diem/about/)
 explored the problem space, discussed technical requirements from various
 stakeholders, and helped frame the problem in terms of potential efforts within the
-IETF. This BoF is a venue for discussing the chartering of perspective work on the topic of digital emblems.
+IETF. A wide variety of use cases, some of which have conflicting requirements,
+led to a lack of consensus on IETF-adoptable scope but consensus that something
+in the space should be worked on (by a show of hands in Meetecho). The end of the
+BoF discussion indicated multiple scopes of work with some common overlap may need
+to be defined.
+
+This BoF is a venue for discussing the chartering of perspective work on the topic
+of digital emblems and what useful scopes can be taken on by existing WGs or will
+require a new WG.
 
 ## Required Details
 - Status: WG Forming
@@ -50,9 +64,11 @@ To allow evaluation of your proposal, please include the following items:
 
 ## Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
    - Mailing List: https://mailman3.ietf.org/mailman3/lists/diem.ietf.org/
-   - Draft charter: TBD
+   - Draft charter(s):
+      - https://github.com/felixlinker/emblem-scope/blob/main/authenticated-digital-emblem-scoping.md
    - Relevant Internet-Drafts:
       - Use Cases:
          - https://datatracker.ietf.org/doc/draft-haberman-digital-emblem-ps/
+         - https://datatracker.ietf.org/doc/draft-linker-digital-emblem/
       - Solutions
          - https://datatracker.ietf.org/doc/draft-haberman-digital-emblem/
