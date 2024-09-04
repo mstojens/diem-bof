@@ -46,7 +46,7 @@ require a new WG.
 - Conflicts (whole Areas and/or WGs)
    - Chair Conflicts: TBD
    - Technology Overlap: TBD
-   - Key Participant Conflict: DELEG, PIM, DPRIVE
+   - Key Participant Conflict: DELEG, PIM, DPRIVE, DNSOP, ADD, V6OPS, UTA
 
 ## Information for IAB/IESG
 To allow evaluation of your proposal, please include the following items:
